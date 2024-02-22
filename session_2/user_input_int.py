@@ -1,0 +1,5 @@
+print('Enter the year you were born:')
+year = input()
+age = 2023 - int(year)
+print(age)
+print('Your age is: ' + str(age))
